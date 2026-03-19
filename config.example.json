@@ -1,0 +1,33 @@
+{
+  "api_keys": {
+    "minimax": "your_minimax_api_key_here",
+    "openai": "your_openai_api_key_here",
+    "whisper": "your_whisper_api_key_here"
+  },
+  "notifications": {
+    "email": {
+      "enabled": false,
+      "smtp_server": "smtp.example.com",
+      "smtp_port": 587,
+      "username": "your_email@example.com",
+      "password": "your_email_password"
+    },
+    "wechat": {
+      "enabled": false,
+      "webhook_url": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=your_key"
+    },
+    "dingtalk": {
+      "enabled": false,
+      "webhook_url": "https://oapi.dingtalk.com/robot/send?access_token=your_token"
+    }
+  },
+  "storage": {
+    "database_path": "./data/meetings.db",
+    "output_dir": "./meeting-output"
+  },
+  "defaults": {
+    "language": "zh",
+    "transcript_model": "minimax",
+    "reminder_time": "08:00"
+  }
+}

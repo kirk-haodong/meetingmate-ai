@@ -1,0 +1,16 @@
+# Core dependencies
+requests>=2.28.0
+python-dateutil>=2.8.2
+
+# Database
+sqlite3
+
+# Audio processing (optional)
+# whisper-openai
+
+# CLI tools
+click>=8.0.0
+
+# Utilities
+pyyaml>=6.0
+colorama>=0.4.6
