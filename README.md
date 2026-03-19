@@ -152,7 +152,7 @@ meetingmate-ai/
 
 ## 🌐 相关链接
 
-- **产品官网**: [meetingmate-ai-website](https://github.com/kirk-haodong/meetingmate-ai-website)
+- **产品官网**: [clawmate.cloud](https://clawmate.cloud)
 - **比赛信息**: 中关村北纬龙虾大赛 · 生产力赛道
 - **联系邮箱**: 13128614087@163.com
 
